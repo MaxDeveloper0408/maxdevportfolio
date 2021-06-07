@@ -33,7 +33,7 @@
 	    <!-- Brand-->
 	    <a class="navbar-brand" href="#">Max.</a>
 		<div class="container d-block">
-	      <span class="phone  my-0 d-none d-md-block">+3 826 805 42 30</span>
+	      <span class="phone  my-0 d-none d-md-block">+7 909 486 22 43</span>
 	        <span class="email  my-0 d-none d-md-block">maxdevsmart0408@gmail.com</span>
 		</div>
 
@@ -427,7 +427,7 @@
 					 	<h2 class="text-white">Contact</h2>
 					 	<p class="text-muted">You'll called for yielding male, so lights
 Stars abundantly, is their.</p>
-				<h3 class="text-white">(+382) 680 54230</h3>
+				<h3 class="text-white">+7 909 486 22 43</h3>
 				<p class="text-muted mt-3">maxdevsmart0408@gmail.com</p>
 				 </div>
 				 <div class="col-md-5 offset-md-2">
